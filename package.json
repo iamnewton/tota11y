@@ -12,7 +12,7 @@
     "autoprefixer-loader": "^1.2.0",
     "babel-core": "^5.0.12",
     "babel-loader": "^5.0.0",
-    "css-loader": "^0.10.1",
+    "css-loader": "^3.5.2",
     "handlebars": "^3.0.1",
     "handlebars-loader": "^1.0.0",
     "jquery": "^2.1.3",
