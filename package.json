@@ -19,7 +19,7 @@
     "less": "^2.5.0",
     "less-loader": "^2.2.0",
     "postcss": "^4.1.11",
-    "postcss-loader": "^0.4.3",
+    "postcss-loader": "^5.2.0",
     "script-loader": "^0.6.1",
     "style-loader": "^0.10.1",
     "webpack": "^1.8.4",
