@@ -22,7 +22,7 @@
     "postcss-loader": "^0.4.3",
     "script-loader": "^0.6.1",
     "style-loader": "^0.10.1",
-    "webpack": "^1.8.4",
+    "webpack": "^5.26.2",
     "webpack-dev-server": "^1.9.0"
   },
   "scripts": {
